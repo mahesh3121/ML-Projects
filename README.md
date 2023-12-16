@@ -11,6 +11,8 @@ Churn Prediction:
 Logistic regression model for churn prediction.
 Decision tree model for churn prediction.
 Random forest model for churn prediction.
-Population Clustering:
 
+
+
+Population Clustering:
 K-means clustering algorithm to cluster populations based on certain features.
