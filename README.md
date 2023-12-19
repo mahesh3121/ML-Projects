@@ -16,3 +16,8 @@ Random forest model for churn prediction.
 
 Population Clustering:
 K-means clustering algorithm to cluster populations based on certain features.
+
+heart disease prediction  using Logistic Regression
+
+bike price prediction using linear regression
+
